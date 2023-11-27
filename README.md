@@ -3,6 +3,9 @@ Export the folder and its contents at the given file path as a tree view image u
 
 ### Usage
 ```bash
+pip install Pillow
+```
+```bash
 python tree.py filePath
 ```
 or
