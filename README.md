@@ -4,13 +4,11 @@ Export the folder and its contents at the given file path as a tree view image u
 ### Usage
 ```bash
 pip install Pillow
-```
-<br>
-```bash
 python tree.py filePath
 ```
 or
 ```bash
+pip install Pillow
 python3 tree.py filePath
 ```
 
